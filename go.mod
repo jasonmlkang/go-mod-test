@@ -1,3 +1,3 @@
-module github.com/jasonmlkang/go-mod-test/go-mod-test-sub-cmd
+module github.jpl.nasa.gov/kang/go-mod-test
 
 go 1.17
